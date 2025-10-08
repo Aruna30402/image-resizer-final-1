@@ -11,8 +11,7 @@
   "install-client": "cd client && npm install",
   "install-all": "npm run install-server && npm run install-client",
   "build": "npm run install-client && cd client && npm run build"
-}
-
+},
   "keywords": ["image", "resize", "zip", "upload", "download"],
   "author": "",
   "license": "MIT",
